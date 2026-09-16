@@ -11,12 +11,12 @@ automáticamente subtotal, IGV (18%) y total.
 ## Capturas
 
 ### Carrito vacío
-<img width="246" height="536" alt="Captura de pantalla 2026-09-16 a las 4 53 55 p  m" src="https://github.com/user-attachments/assets/51f3389b-6b1b-4fa7-8ae9-4f65af6742fb" />
+<img width="251" height="553" alt="Captura de pantalla 2026-09-16 a las 5 24 53 p  m" src="https://github.com/user-attachments/assets/a8f7f6b0-a922-4704-a31c-dbabeb09a297" />
 
 
 ### Carrito con productos
 
-<img width="245" height="539" alt="Captura de pantalla 2026-09-16 a las 4 56 34 p  m" src="https://github.com/user-attachments/assets/52748e99-26ed-40e1-90ff-fdbc7faa0511" />
+<img width="245" height="543" alt="Captura de pantalla 2026-09-16 a las 5 24 44 p  m" src="https://github.com/user-attachments/assets/fee6783b-a494-4ba7-b6e5-2ca6d75e56e0" />
 
 ## Respuestas conceptuales
 
